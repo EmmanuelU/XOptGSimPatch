@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">XOptGSimPatch</string>
+    <string name="app_description">SIM card fix for Optimus G phones on CM12.1.</string>
+</resources>
